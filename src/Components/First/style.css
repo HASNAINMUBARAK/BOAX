@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.mainuauctionTop {
+  display: flex;
+
+  height: 52px;
+  width: 230px;
+  border-radius: 50px;
+  align-items: center;
+  box-shadow: 0px 4px 15px rgba(102, 102, 102, 0.15);
+  background: #ffffff;
+}
+.text-mainauction {
+  padding: 3px;
+  line-height: 20px;
+  background: #ffffff;
+}
+.imageRound {
+  height: 40px;
+  width: 40px;
+}
+
+.horline {
+  border: 2px solid #e5e5e5;
+  transform: rotate(180deg);
+  height: 80px;
+  margin-top: 30px;
+  margin-left: 25px;
+}
+.timing-auction {
+  display: flex;
+  /* justify-content: flex-start; */
+}
+.butn Button {
+  margin-top: 2rem;
+}
+
+.Blob {
+  font-weight: bold;
+  font-size: 20px;
+}
+.min {
+  font-family: "Lato" sans-serif;
+  font-size: 36px;
+}
+.bid {
+  font-weight: normal;
+  margin-top: 47px;
+  font-size: 18px;
+}
+.lbrt {
+  font-family: "Lato" sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  /* margin-top: 10px; */
+}
+.dollar {
+  font-family: "Lato" sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+
+  color: #666666;
+  /* margin-top: 5px; */
+}
